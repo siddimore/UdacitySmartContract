@@ -1,1 +1,3 @@
 # UdacitySmartContract
+
+Added StarNotary app
